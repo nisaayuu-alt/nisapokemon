@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Bulbasaur",
+    "description": "Pokémon tipe Grass dan Poison yang memiliki benih tanaman di punggungnya sejak lahir.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+  },
+  {
+    "title": "Ivysaur",
+    "description": "Evolusi dari Bulbasaur. Kuncup bunga di punggungnya tumbuh semakin besar seiring bertambahnya energi.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+  },
+  {
+    "title": "Venusaur",
+    "description": "Evolusi terakhir Bulbasaur dengan bunga besar di punggung yang mampu menyerap energi matahari.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+  },
+  {
+    "title": "Charmander",
+    "description": "Pokémon tipe Fire dengan api di ujung ekornya yang menandakan kondisi kesehatannya.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+  },
+  {
+    "title": "Charmeleon",
+    "description": "Evolusi Charmander yang memiliki sifat lebih agresif dan menggunakan cakarnya saat bertarung.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+  },
+  {
+    "title": "Charizard",
+    "description": "Pokémon tipe Fire dan Flying yang mampu terbang tinggi dan menyemburkan api dengan sangat kuat.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+  },
+  {
+    "title": "Squirtle",
+    "description": "Pokémon tipe Water dengan tempurung kuat yang melindungi tubuhnya dari serangan.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+  },
+  {
+    "title": "Wartortle",
+    "description": "Evolusi Squirtle dengan telinga dan ekor berbulu yang menjadi simbol umur panjang.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+  },
+  {
+    "title": "Blastoise",
+    "description": "Evolusi terakhir Squirtle yang memiliki dua meriam air kuat di bagian tempurungnya.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+  },
+  {
+    "title": "Pikachu",
+    "description": "Pokémon tipe Electric yang menyimpan listrik di pipinya dan dapat melepaskannya saat menyerang.",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png"
+  }
+]
